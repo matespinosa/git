@@ -1,5 +1,18 @@
 body {
   text-align: center;
   font-family: 'Arial';
-  color: coral;
+  font-size: 16px;
+  color: #333;
+}
+
+#container {
+  width: 70%;
+  padding: 1rem;
+  text-align: left;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+}
+
+#contianer h1 {
+  font-size: 20px;
 }
