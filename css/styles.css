@@ -16,3 +16,11 @@ body {
 #contianer h1 {
   font-size: 20px;
 }
+
+#header h2 {
+  background: #33a;
+  color: #fff;
+  margin: 0;
+  padding: 0.5rem;
+  font-weight: bold;
+}
